@@ -1,0 +1,16 @@
+D:\Projects\sharpbox\WebExtCorePages\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+D:\Projects\sharpbox\WebExtCorePages\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+D:\Projects\sharpbox\WebExtCorePages\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+D:\Projects\sharpbox\WebExtCorePages\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+D:\Projects\sharpbox\WebExtCorePages\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+D:\Projects\sharpbox\WebExtCorePages\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\sharpbox\WebExtCorePages\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\sharpbox\WebExtCorePages\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+D:\Projects\sharpbox\WebExtCorePages\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\sharpbox\WebExtCorePages\Infrastructure\obj\Debug\net5.0\staticwebassets\Infrastructure.StaticWebAssets.Manifest.cache
+D:\Projects\sharpbox\WebExtCorePages\Infrastructure\obj\Debug\net5.0\staticwebassets\Infrastructure.StaticWebAssets.xml
+D:\Projects\sharpbox\WebExtCorePages\Infrastructure\obj\Debug\net5.0\scopedcss\bundle\Infrastructure.styles.css
+D:\Projects\sharpbox\WebExtCorePages\Infrastructure\obj\Debug\net5.0\Infrastructure.RazorTargetAssemblyInfo.cache
+D:\Projects\sharpbox\WebExtCorePages\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+D:\Projects\sharpbox\WebExtCorePages\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+D:\Projects\sharpbox\WebExtCorePages\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
