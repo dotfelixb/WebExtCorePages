@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace Infrastructure
+namespace Invoice
 {
     #line hidden
     using System;
@@ -12,13 +12,6 @@ namespace Infrastructure
     using System.Linq;
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
-#nullable restore
-#line 1 "D:\Projects\sharpbox\WebExtCorePages\Infrastructure\_Imports.razor"
-using Microsoft.AspNetCore.Components.Web;
-
-#line default
-#line hidden
-#nullable disable
     public partial class _Imports : System.Object
     {
         #pragma warning disable 1998

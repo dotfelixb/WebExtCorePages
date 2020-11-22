@@ -1,0 +1,31 @@
+@using System.Reflection
+@using ExtCore.Infrastructure
+
+<Router AppAssembly="@typeof(BareboneExtension).Assembly" AdditionalAssemblies="LoadAdditionalAssemblies">
+    <Found Context="routeData">
+        <RouteView RouteData="@routeData" DefaultLayout="@typeof(Layout)" />
+    </Found>
+    <NotFound>
+        <LayoutView Layout="@typeof(Layout)">
+            <p>Sorry, there's nothing at this address.</p>
+        </LayoutView>
+    </NotFound>
+</Router>
+
+@code {
+    public IEnumerable<Assembly> LoadAdditionalAssemblies { get; set; }
+
+    protected override void OnInitialized()
+    {
+        var list = new List<Assembly>();
+        foreach (var asm in ExtensionManager.GetInstances<IExtension>())
+        {
+            if (this.GetType().Assembly != asm.GetType().Assembly)
+            {
+                list.Add(asm.GetType().Assembly);
+            }
+        }
+
+        LoadAdditionalAssemblies = list;
+    }
+}
